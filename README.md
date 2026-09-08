@@ -1,60 +1,74 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi, I'm Elidio Colonna
 
-[Brief Introduction - Remove this afterwards]
+### Cloud & Security Student | Detection Engineering | DFIR | Security Operations
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a cybersecurity student in Belgium focused on understanding attacker behaviour, building reliable detections, and investigating security incidents. My work combines hands-on labs, SIEM analysis, network monitoring, digital forensics, and security automation.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+I am building this portfolio in preparation for a **2027 cybersecurity internship**, with a long-term interest in detection engineering, threat hunting, incident response, and security engineering.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+> **My workflow:** Attack behaviour → Telemetry → Detection → Validation → Investigation → Documentation
+
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| [PentaSOC](https://github.com/ElidioColonnaPXL/PentaSOC) | Raspberry Pi-based blue-team homelab for SIEM, network monitoring, detection validation, and incident-response practice. |
+| [DetectionFoundry](https://github.com/ElidioColonnaPXL/DetectionFoundry) | Behaviour-driven Sigma, YARA, KQL, SPL, and network detections with ATT&CK mapping, testing, and tuning. |
+| [IncidentDossier](https://github.com/ElidioColonnaPXL/IncidentDossier) | Evidence-led DFIR case studies featuring timelines, technical findings, IOCs, and response recommendations. |
+| [infosec-wiki](https://github.com/ElidioColonnaPXL/infosec-wiki) | Obsidian-compatible cybersecurity knowledge base covering SOC operations, DFIR, detection, and network security. |
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Area | Practical evidence |
+|---|---|
+| SIEM implementation and log analysis | [PentaSOC](https://github.com/ElidioColonnaPXL/PentaSOC) · [infosec-wiki](https://github.com/ElidioColonnaPXL/infosec-wiki) |
+| Detection engineering and rule development | [DetectionFoundry](https://github.com/ElidioColonnaPXL/DetectionFoundry) |
+| Network traffic monitoring and attack detection | [PentaSOC](https://github.com/ElidioColonnaPXL/PentaSOC) · [DetectionFoundry](https://github.com/ElidioColonnaPXL/DetectionFoundry) |
+| Incident investigation and timeline reconstruction | [IncidentDossier](https://github.com/ElidioColonnaPXL/IncidentDossier) |
+| Digital forensics and malware triage | [IncidentDossier](https://github.com/ElidioColonnaPXL/IncidentDossier) · [infosec-wiki](https://github.com/ElidioColonnaPXL/infosec-wiki) |
+| Security scripting and automation | [PentaSOC](https://github.com/ElidioColonnaPXL/PentaSOC) · [DetectionFoundry](https://github.com/ElidioColonnaPXL/DetectionFoundry) |
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Technical Toolkit
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+### SIEM and Log Analysis
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+<p>
+  <img alt="Microsoft Sentinel" src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img alt="Elastic" src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+</p>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### Detection and Network Analysis
+
+<p>
+  <img alt="Sigma" src="https://img.shields.io/badge/Sigma-2E3440?style=for-the-badge" />
+  <img alt="YARA" src="https://img.shields.io/badge/YARA-8B0000?style=for-the-badge" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img alt="Suricata" src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge" />
+  <img alt="Snort" src="https://img.shields.io/badge/Snort-F6A7AA?style=for-the-badge" />
+  <img alt="Zeek" src="https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge" />
+</p>
+
+### Scripting and Engineering
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+<p>
+  <img alt="HTB Certified Defensive Security Analyst" src="https://img.shields.io/badge/HTB-CDSA-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img alt="CompTIA A+" src="https://img.shields.io/badge/CompTIA-A%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
+</p>
+
+## Current Focus
+
+- Developing and documenting the PentaSOC homelab
+- Building and validating behaviour-based detections
+- Publishing structured DFIR investigation reports
+- Expanding Microsoft Sentinel, Defender XDR, and KQL skills toward SC-200
+
